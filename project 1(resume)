@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <div>
+            <h1>Saurabh Kumar Gupt</h1>
+            <p>Contact: <a href="http://saurabh.com">saurabh.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/saurabh-kumar-gupt-419b16200">saurabh-kumar-gupt-419b16200</a></p>
+            <p>GitHub: <a href="https://github.com/Saurabh9565">Saurabh9565</a></p>
+        </div>
+
+        <table>
+            <tr>
+                <td><img src="myphoto.jpg" alt="myphoto" height="100px" width="100px"></td>
+                <td>To secure a challenging entry level position as a CSE student , where I can apply my technical knowledge , problem
+                    solving skills , and passion for innovation to contribute to
+                    the development of cutting- edge software solutions. I aim
+                    to gain practical experience , expand my skill set , and work
+                    in a collaborative environment that fosters professional
+                    growth and learning opportunities.</td>
+            </tr>
+        </table>
+
+        <h2>Education</h2>
+        <section>
+        <ul>
+            <li>Bachelor of Tech(CSE) in Raj Kumar Goel Institute of Technology, Ghaziabad</li>
+            <li>M.S.S High School and N.I.C Maharajganj</li>
+        </ul>
+        </section>
+
+        <h2>Work Experience</h2>
+        <section>
+        <h3>Software Engineer,Microsoft</h3>
+        <p>Nov 2021 - May 2022</p>
+        <ul>
+            <li>Developed and maintained web application using HTML,CSS and JavaScript.</li>
+            <li>Collaborated with cross-functional teams to design and implement software</li>
+            <li>Optimized code performance and improved application efficiency</li>
+        </ul>
+
+        <h3>Software Development Engineer,Amazon</h3>
+        <p>July 2019 - Oct 2021</p>
+        <ul>
+            <li>Developed and maintained web application using HTML,CSS and JavaScript.</li>
+            <li>Collaborated with cross-functional teams to design and implement software</li>
+        </ul>
+        </section>
+
+        <h2>Skills</h2>
+        <section>
+            <ul>
+                <li>C++</li>
+                <li>Pyhton</li>
+                <li>C programming</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+
+        <h2>Achievements</h2>
+        <section></section>
+        <ul>
+            <li>Service Selection Board(Recommendation letter for Officer in Indian Army). </li>
+            <li>Published an article on data structures in renowned tech magazine.</li>
+            
+        </ul>
+        </section>
+
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <h3>Library Management System</h3>
+                <p>Library Management application - developed a desktop application by using Java swing and MYSQL server.</p>
+                <p>Hosted Link: <a href="http://www.github.com">Example.com</a></p>
+            <p>Github Link: <a href="http://www.google.com">google.com</a></p>
+            </li>
+            <li>
+                <h3>Friendly Chat AppFriendly</h3>
+                <p>An android app making use of fireBase</p>
+                <p>Hosted Link: <a href="http://www.github.com">Example.com</a></p>
+            <p>Github Link: <a href="http://www.google.com">google.com</a></p>
+            </li>
+            
+        </ul>
+
+        <h2>Frequently asked question</h2>
+
+        <section>
+            <details>
+                <summary>What is your name?</summary>
+                <p>My name is Saurabh Kumar Gupt.</p>
+            </details>
+            <details>
+                <summary>What is your name?</summary>
+                <p>My name is Saurabh Kumar Gupt.</p>
+            </details>
+            <details>
+                <summary>What is your name?</summary>
+                <p>My name is Saurabh Kumar Gupt.</p>
+            </details>
+        </section>
+
+
+
+        <br>
+        <br>
+
+
+        <footer>@ 2023 love Babbar. All rights reserved. </footer>
+
+
+
+
+    </div>
+
+    
+</body>
+</html>
